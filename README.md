@@ -9,3 +9,7 @@
 :orange_book: Book: https://www.packtpub.com/product/java-ee-8-high-performance/9781788473064
 
 :construction_worker: Currently working for http://www.yupiik.com/
+
+:fireworks: https://home.apache.org/committer-index.html#rmannibucau
+
+:sparkler: https://www.yupiik.io/projects.html
