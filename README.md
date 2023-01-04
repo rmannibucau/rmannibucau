@@ -10,6 +10,6 @@
 
 :construction_worker: Currently working for http://www.yupiik.com/
 
-:fireworks: https://home.apache.org/committer-index.html#rmannibucau
+:fireworks: Apache (ASF): https://home.apache.org/committer-index.html#rmannibucau
 
-:sparkler: https://www.yupiik.io/projects.html
+:sparkler: Yupiik OSS: https://www.yupiik.io/projects.html
