@@ -1,18 +1,18 @@
 ### I'm Romain Manni-Bucau
 
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=rmannibucau&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="40%" style="margin:20px 0;" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rmannibucau" alt="rmannibucau" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rmannibucau&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+<img width="50%" style="margin:20px 0;" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rmannibucau" alt="rmannibucau" />
 
-:computer: Linkedin: https://www.linkedin.com/in/rmannibucau/
+:computer: Linkedin: [@rmannibucau](https://www.linkedin.com/in/rmannibucau/)
 
-:bird: Tweeter: https://twitter.com/rmannibucau
+:bird: Tweeter/X: [@rmannibucau](https://www.yupiik.io/projects.html)](https://twitter.com/rmannibucau))
 
-:pencil: Blog: https://rmannibucau.metawerx.net/
+:pencil: Blog: [rmannibucau.metawerx.net](https://rmannibucau.metawerx.net/)
 
-<img src="book.png" width="16" height="20"> Book: https://www.packtpub.com/product/java-ee-8-high-performance/9781788473064
+<img src="book.png" width="16" height="20"> Book: [packtpub.com java-ee-8-high-performance](https://www.packtpub.com/product/java-ee-8-high-performance/9781788473064)
 
-:construction_worker: Currently working for http://www.yupiik.com/
+:construction_worker: Currently working for [Yupiik](http://www.yupiik.com/)
 
-:fireworks: Apache (ASF): https://home.apache.org/committer-index.html#rmannibucau
+:fireworks: Apache (ASF): [Committer list](https://home.apache.org/committer-index.html#rmannibucau)
 
-:sparkler: Yupiik OSS: https://www.yupiik.io/projects.html
+:sparkler: Yupiik OSS: [Yupiik OSS](https://www.yupiik.io/projects.html)
