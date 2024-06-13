@@ -14,4 +14,4 @@
 
 :sparkler: Yupiik OSS: https://www.yupiik.io/projects.html
 
-[Gist Card](https://github-readme-stats.vercel.app/api?username=rmannibucau&show_icons=true)
+![Gist Card](https://github-readme-stats.vercel.app/api?username=rmannibucau&show_icons=true)
