@@ -1,7 +1,7 @@
 ### I'm Romain Manni-Bucau
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rmannibucau&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="50%" style="margin:20px 0;" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rmannibucau" alt="rmannibucau" />
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=rmannibucau&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+<img width="40%" style="margin:20px 0;" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rmannibucau" alt="rmannibucau" />
 
 :computer: Linkedin: https://www.linkedin.com/in/rmannibucau/
 
