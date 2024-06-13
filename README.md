@@ -9,8 +9,7 @@
 
 :pencil: Blog: https://rmannibucau.metawerx.net/
 
-![](book.png | height=33)
-Book: https://www.packtpub.com/product/java-ee-8-high-performance/9781788473064
+![](book.png =28x35) Book: https://www.packtpub.com/product/java-ee-8-high-performance/9781788473064
 
 :construction_worker: Currently working for http://www.yupiik.com/
 
