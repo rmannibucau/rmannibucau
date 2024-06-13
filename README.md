@@ -5,7 +5,7 @@
 
 :computer: Linkedin: [@rmannibucau](https://www.linkedin.com/in/rmannibucau/)
 
-:bird: Tweeter/X: [@rmannibucau](https://www.yupiik.io/projects.html)](https://twitter.com/rmannibucau))
+:bird: Tweeter/X: [@rmannibucau](https://twitter.com/rmannibucau)
 
 :pencil: Blog: [rmannibucau.metawerx.net](https://rmannibucau.metawerx.net/)
 
