@@ -7,7 +7,7 @@
 
 :bird: Tweeter/X: [@rmannibucau](https://twitter.com/rmannibucau)
 
-:pencil: Blog: [rmannibucau.metawerx.net](https://rmannibucau.metawerx.net/)
+:pencil: Blog: [rmannibucau.metawerx.net](https://rmannibucau.metawerx.net/)/[.NET Birdie](https://dotnetbirdie.github.io)
 
 <img src="book.png" width="16" height="20"> Book: [packtpub.com java-ee-8-high-performance](https://www.packtpub.com/product/java-ee-8-high-performance/9781788473064)
 
