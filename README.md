@@ -17,4 +17,6 @@
 
 :sparkler: Yupiik OSS: [Yupiik OSS](https://www.yupiik.io/projects.html)
 
-Had been a Java guy for more 14+ years and slowly starting C#!
+Had been a Java guy for more 14+ years and became a Java/C# architect in 2024!
+
+Javaccino founder (Java/Kubernetes service company).
